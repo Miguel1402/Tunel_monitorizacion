@@ -1,0 +1,4 @@
+condicion,valor
+Tiempo inicio del ensayo,2020-09-29 14:46:34.232838
+LWC (g/m3),
+MVD (um),
